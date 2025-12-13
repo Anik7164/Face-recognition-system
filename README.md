@@ -269,12 +269,17 @@ Contributions are welcome! Here's how you can help:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Author
+## Authors
 
-**Anik7164**
+**Anik Mondal** - [@Anik7164](https://github.com/Anik7164)
 
-- GitHub: [@Anik7164](https://github.com/Anik7164)
-- Repository: [Face-recognition-system](https://github.com/Anik7164/Face-recognition-system)
+**Asif Mahbub** - [@mahbubasif](https://github.com/mahbubasif)
+
+**Tasin** - [@al-af-muktadir](https://github.com/al-af-muktadir)
+
+**Shahida** - [@Samaira-0](https://github.com/Samaira-0)
+
+**Repository**: [Face-recognition-system](https://github.com/Anik7164/Face-recognition-system)
 
 ## Acknowledgments
 
