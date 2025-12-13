@@ -1,0 +1,27 @@
+# Python Core Libraries
+numpy>=1.21.0
+opencv-python>=4.5.0
+opencv-contrib-python>=4.5.0
+
+# Deep Learning Frameworks
+tensorflow>=2.8.0
+keras>=2.8.0
+
+# Image Processing
+Pillow>=9.0.0
+
+# Data Visualization (Optional, for notebooks)
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Jupyter Support (Optional, for notebooks)
+jupyter>=1.0.0
+notebook>=6.4.0
+ipykernel>=6.0.0
+
+# Utilities
+tqdm>=4.62.0
+
+# Additional Dependencies
+h5py>=3.6.0
+scipy>=1.7.0
